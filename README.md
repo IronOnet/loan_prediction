@@ -18,20 +18,6 @@ The values you are prompted for are:
 
 
 
-You are now ready to get started, however you should first create a new github repository for your new project and add your 
-project using the following commands (substitute myproject with the name of your project and REMOTE-REPOSITORY-URL 
-with the remote repository url).
-
-    cd myproject
-    git init
-    git add .
-    git commit -m "Initial commit"
-    git remote add origin REMOTE-REPOSITORY-URL
-    git remote -v
-    git push origin master
-
-
-
 ## Contributing to This Project
 Contributions to this Project are greatly appreciated and encouraged.
 
